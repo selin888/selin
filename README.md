@@ -1,2 +1,0 @@
-# selin
-dosya
